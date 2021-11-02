@@ -40,12 +40,12 @@ Neste projeto você irá criar o TrybeTunes, uma aplicação capaz de reproduzir
   - Ver o perfil da pessoa logada;
   - Editar o perfil da pessoa logada;
 
-### Protótipo do projeto
-Você pode acessar um protótipo no link abaixo:
+---
 
-https://www.figma.com/file/BDQgAJvOe4KNUjmrYh5t68/TrybeTunes-Figma
+## ESLint e Stylelint
 
-
+Para garantir a qualidade do código, vamos utilizar neste projeto os linters `ESLint` e `Stylelint`.
+Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível e de fácil manutenção!
 
 ## Execução de testes unitários
 
