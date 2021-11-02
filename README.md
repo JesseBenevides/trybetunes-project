@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto TrybeTunes!
 
-### Projeto desenvolvido como critério de avaliação do curso de desenvolvimento Web da [Trybe](https://www.betrybe.com)
+### Projeto desenvolvido desenvolvido com REACT e utilizado como critério de avaliação do curso de desenvolvimento Web da [Trybe](https://www.betrybe.com)
 
 # Habilidades
 Neste projeto, verificamos se voce é capaz de:
